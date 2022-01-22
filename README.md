@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/andiphoenix">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.xing.com/profile/andiphoenix/cv">
+  <a href="https://www.xing.com/profile/Andi_Phoenix/cv">
     <img height="28" src="https://allmaxx.de/sites/default/files/images/partners/xing/1425-xing-logo.png" />        
   </a>&nbsp;&nbsp;
  
